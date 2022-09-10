@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://wang-yi-yun-a809q6q7c-lydqe.vercel.app/:match*"
+    }
+  ]
+}
